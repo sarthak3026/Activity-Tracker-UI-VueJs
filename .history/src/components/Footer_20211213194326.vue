@@ -1,0 +1,22 @@
+<template>
+    <footer>
+        <p>Copyright &copy; 2021</p>
+        <router-lnk href="about">About</a>
+    </footer>
+</template>
+
+<script>
+export default {
+    name : 'Footer'
+}
+</script>
+
+<style scoped>
+    a{
+        color : #3333
+    }
+    footer{
+        margin-top: 20px;
+        text-align: center;
+    }
+</style>

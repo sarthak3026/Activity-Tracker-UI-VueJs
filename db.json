@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Washing Clothes",
+      "day": "27th Dec'21",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "adqw",
+      "day": "ddw",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "czz",
+      "day": " zn jnz",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
